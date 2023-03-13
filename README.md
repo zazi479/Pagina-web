@@ -16,3 +16,7 @@ La estructuran de la página web es la siguiente:
 - Pick and Build.
   - Pick a Brick.
   - Información.
+
+
+
+La página de Hobby,es la página principal que contiene un menú horintal desplegable fijo y un poco de información.La página de Lego 
