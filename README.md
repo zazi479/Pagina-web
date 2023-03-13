@@ -27,3 +27,9 @@ En Pick a Bild podremos observar una tabla con algnas de las categorías que hay
 
 Por último tenemos un formulariopara rellenar si queremos obtener más información sobre el maravilloso  mundo de Lego y todas las posibilidades de entretenimiento que nos ofrece.
 
+
+Una pequeña muestra de mis piezas.
+![](https://github.com/zazi479/Pagina-web/blob/993c885a5b8338e39655f648ad4795f9de65fb6c/hpmio.jpg)
+
+
+
