@@ -29,7 +29,7 @@ Por último tenemos un formulariopara rellenar si queremos obtener más informac
 
 
 Una pequeña muestra de mis piezas.
-![]([https://github.com/zazi479/Pagina-web/blob/993c885a5b8338e39655f648ad4795f9de65fb6c/hpmio.jpg](https://github.com/zazi479/Pagina-web/blob/993c885a5b8338e39655f648ad4795f9de65fb6c/miomini.jpg)
+![](https://github.com/zazi479/Pagina-web/blob/993c885a5b8338e39655f648ad4795f9de65fb6c/miomini.jpg)
 
 
 
