@@ -26,3 +26,4 @@ En Pick and Build observaremos una galería con imágenes mas grandes para poder
 En Pick a Bild podremos observar una tabla con algnas de las categorías que hay en el mundo de Lego como el poder comprar piezas sueltas para poder fabricar nuestos propios personajes o poder crear nuestras propias obraas de arte.El Pick a Bild nos permiter poder obtener piezas que se hayan perdido de packs conpletos.
 
 Por último tenemos un formulariopara rellenar si queremos obtener más información sobre el maravilloso  mundo de Lego y todas las posibilidades de entretenimiento que nos ofrece.
+
